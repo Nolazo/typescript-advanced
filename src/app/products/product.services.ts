@@ -35,5 +35,5 @@ export const updateProduct = (id: Product['id'], changes: UpdateProductDto): Pro
 }
 
 export const findProduts = (dto: FindProductDto): Product[] => {
-  return products.filter(item => item.id === dto.id)
+  return products
 }

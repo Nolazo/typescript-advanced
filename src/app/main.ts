@@ -30,7 +30,7 @@ console.log(products)
 // })
 
 
-// uso de findProduts
-findProduts({
-  stock: 10,
-})
+// // uso de findProduts
+// findProduts({
+//   stock: 10,
+// })
